@@ -1,1 +1,2 @@
 add file edu1
+source tree
